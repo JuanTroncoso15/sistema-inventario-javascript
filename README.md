@@ -58,11 +58,13 @@ npm run check
 
 ## Repositorio en GitHub
 
-El proyecto se preparará para publicarse en GitHub. Para ello, se requiere autenticación con GitHub CLI o desde la plataforma web.
+Repositorio oficial del proyecto:
+
+https://github.com/JuanTroncoso15/sistema-inventario-javascript
 
 ## Integración continua
 
-El workflow de GitHub Actions valida la sintaxis y ejecuta las pruebas en cada push y pull request.
+El workflow de GitHub Actions valida la sintaxis y ejecuta las pruebas en cada push y pull request. La validación fue ejecutada correctamente en GitHub Actions.
 
 ## Autor
 

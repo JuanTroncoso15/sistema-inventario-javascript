@@ -1,0 +1,14 @@
+{
+  "name": "sistema-inventario-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de inventario básico con JavaScript y almacenamiento local",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "check": "node --check server.js && node --check src/js/app.js && node --check src/js/inventario.js && node --check src/js/storage.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
